@@ -1,6 +1,6 @@
 # Distributional Shortest-Path Graph Kernels 
 
-This is a PyTorch implementation of "Distributional Shortest-Path Graph Kernels" submitted to ICDM 2024.
+This is a PyTorch implementation of "Distributional Shortest-Path Graph Kernels" submitted to IEEE TKDE.
 
 ## Requirements
 See `requriements.txt` for required Python libraries.
